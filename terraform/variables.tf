@@ -23,7 +23,7 @@ variable "cluster_name" {
 }
 
 variable "machine_type" {
-  default = "f1-micro"
+  default = "n1-standard-1"
 }
 
 variable "project" {
